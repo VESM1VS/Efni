@@ -45,9 +45,9 @@ Mismunandi en algeng staðsetning:
 ```
 
 
-Til að sjá hvar ```extensions``` mappan er má alltaf fara í *Preferences -> System* í Inkscape. Þar er listi yfir allar möppur sem Inkscape notar.
-Þegar viðbótin hefur verið sett í rétta möppu þarf að endurræsa Inkscape. 
-Viðbótina má svo finna í *Extensions -> CNC Tools*
+Til að sjá hvar ```extensions``` mappan er má alltaf fara í *Preferences -> System* í Inkscape. Þar er listi yfir allar möppur sem Inkscape notar. <br>
+Þegar viðbótin hefur verið sett í rétta möppu þarf að endurræsa Inkscape. <br>
+Viðbótina má svo finna í *Extensions -> CNC Tools* 
 
 
 ---
