@@ -1,4 +1,4 @@
-# Lasercut Box (viðbót)
+# TabbedBoxMaker (viðbót)
 
 - [Uppsetning á TabbedBoxMaker viðbót](#uppsetning)
 - [Notkun og stililngar á TabbedBoxMaker](#notkun-á-lasercut-box)
