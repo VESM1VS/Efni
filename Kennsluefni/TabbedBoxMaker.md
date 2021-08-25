@@ -4,7 +4,7 @@
 
 ## Uppsetning
 
-Til að búa til kassan utan um Arduino tölvuna og brauðbretti ætlum við að nota viðbót við Inkscape forritið.
+Til að búa til kassan utan um Arduino tölvuna tlum við að nota viðbót við Inkscape forritið.
 
 Viðbótin heitir *TabbedBoxMaker* sem sækja má [hér](https://github.com/paulh-rnd/TabbedBoxMaker)). Smelltu á Code og svo Download ZIP.
 
