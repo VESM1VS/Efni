@@ -1,7 +1,7 @@
 # TabbedBoxMaker (viðbót)
 
 - [Uppsetning á TabbedBoxMaker viðbót](#uppsetning)
-- [Notkun og stililngar á TabbedBoxMaker](#notkun-á-lasercut-box)
+- [Notkun og stililngar á TabbedBoxMaker](#Notkun-á-Tabbed-Box-Maker)
 
 ---
 
