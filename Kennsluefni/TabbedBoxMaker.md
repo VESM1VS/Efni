@@ -1,8 +1,5 @@
 # TabbedBoxMaker (viðbót)
 
-- [Uppsetning á TabbedBoxMaker viðbót](#uppsetning)
-- [Notkun og stililngar á TabbedBoxMaker](#Notkun-á-Tabbed-Box-Maker)
-
 ---
 
 ## Uppsetning
