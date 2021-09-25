@@ -12,7 +12,7 @@ vegalengdin er ummál hjólsins sinnum snúningshraðinn og tímin er gefin 1 se
 0,02 er þvermálhjólsins í metrum
 
 ## Hröðun
-# V1 - V0 / t
+# (V<sub>1</sub> - V<sub>0</sub>) / t
 Hröðun er hraðabreyting hlutar á tímaeiningu, hraðabreyting hlutar er táknaður a og hraðabreyting fallandi hlutar er g (9,8m/s2) á aðeins við jörðina :-)
 þetta þýðir að hlutur sem fellur í þyngdarsviði jarðar eykur hraða sinn um 9,8m/s2 t.d hlutur sem fellur í 10 sek og byrjar með hraðan 0 m/s verður með lokahraða
 98m/s eða 352 km/klst ef engin loftmótstaða er
