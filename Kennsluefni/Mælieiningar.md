@@ -1,8 +1,8 @@
 ### Mælieiningar aflfræði
 ## Kraftur
 # g x m 
-Kraftur er mældur í Newton þ.e hröðun*massi,  hröðun(m/s2) og massi(Kg) 9,8m/s2 * massi gildir fyrir fallandi hluti
-dæmi fallandi lóð sem er 1kg hefur kraftin = 9,8m/s2 * 1kg = 9,8N
+Kraftur er mældur í Newton þ.e hröðun*massi,  hröðun(m/s<sup>2</sup>) og massi(Kg) 9,8m/s<sup>2</sup> * massi gildir fyrir fallandi hluti
+dæmi fallandi lóð sem er 1kg hefur kraftin = 9,8m/s<sup>2</sup> * 1kg = 9,8N
 
 ## Hraði
 # s x t
