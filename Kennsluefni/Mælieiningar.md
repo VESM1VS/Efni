@@ -13,8 +13,8 @@ vegalengdin er ummál hjólsins sinnum snúningshraðinn og tímin er gefin 1 se
 
 ## Hröðun
 # (V<sub>1</sub> - V<sub>0</sub>) / t
-Hröðun er hraðabreyting hlutar á tímaeiningu, hraðabreyting hlutar er táknaður a og hraðabreyting fallandi hlutar er g (9,8m/s2) á aðeins við jörðina :-)
-þetta þýðir að hlutur sem fellur í þyngdarsviði jarðar eykur hraða sinn um 9,8m/s2 t.d hlutur sem fellur í 10 sek og byrjar með hraðan 0 m/s verður með lokahraða
+Hröðun er hraðabreyting hlutar á tímaeiningu, hraðabreyting hlutar er táknaður a og hraðabreyting fallandi hlutar er g (9,8m/s<sup>2</sup>) á aðeins við jörðina :-)
+þetta þýðir að hlutur sem fellur í þyngdarsviði jarðar eykur hraða sinn um 9,8m/s<sup>2</sup> t.d hlutur sem fellur í 10 sek og byrjar með hraðan 0 m/s verður með lokahraða
 98m/s eða 352 km/klst ef engin loftmótstaða er
 
 ## Snúningsvægi (torque)
@@ -22,15 +22,15 @@ Hröðun er hraðabreyting hlutar á tímaeiningu, hraðabreyting hlutar er ták
 Snúningsvægi er kraftur (F) * vegalengd (s) þ.e kraftur hornrétt á snúningsás sinnum vegalengdin í ásinn
 dæmi armur sem er 1 m á lengd í endanum er lóð 1N mótor sem á að halda þessu lóði þarf dc mótor með 1m * 1N eða 1Nm snúningsvægi
 annað dæmi: á arm sem er 1m er lóð sem er 0,2kg hvert er snúningasvæið?
-0,2kg * 9,8m/s2 * 1m = 1,96 Nm þ.e við þurfum dc mótor sem er með meira tog en 1,96Nm því annars lyftir hann þessu ekki aðeins heldur við (stall)
+0,2kg * 9,8m/s<sup>2</sup> * 1m = 1,96 Nm þ.e við þurfum dc mótor sem er með meira tog en 1,96Nm því annars lyftir hann þessu ekki aðeins heldur við (stall)
 
 ## Breyta snúningsvægi kg-cm í Nm
 # g x (kg-cm) / 100
-dæmi mótor er gefin með snúningsvægi 3kg-cm verður 9,8 m7s2 * 3kg-cm /100 =0,294 Nm
+dæmi mótor er gefin með snúningsvægi 3kg-cm verður 9,8 m/s<sup>2</sup> * 3 kg-cm / 100 = 0,294 Nm
 
 ## Afl
 # F x s / t
-Afl er mælt í Wöttum (N * m)/s) 1W = 1Nm/s eða 1W = 1N * 1m á sek eða það þarf 1W til að viðhalda hraðanum 1m/s með kraftinum 1N
+Afl er mælt í Wöttum ((N * m)/s) 1W = 1Nm/s eða 1W = 1N * 1m á sek eða það þarf 1W til að viðhalda hraðanum 1m/s með kraftinum 1N
 Við erum vön mælieiningunni hestöfl en ættum frekar að nota wött (SI)- eining) til að umbreyta hestöflum í wött þarf að margfalda hestöfl x 745,7w
 þ.e 1 ha er 745.7wött
 
