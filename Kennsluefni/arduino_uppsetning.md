@@ -26,6 +26,11 @@ Ræstu nú Arduino forritið og tengdu Arduino tölvuna þína með USB snúrunn
 
 ![Velja port](../Myndir/arduino_com_port.png)
 
+### Reklar (e. driver) ef þarf
+
+- [Windows](https://github.com/VESM1VS/AFANGI/raw/main/Kennsluefni/CP210x_6.7.4.zip)
+- [Mac](https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_System)
+
 ## Auka forritasöfn
 
 Stundum þarf að setja inn auka forritasöfn (e. library). Hér er dæmi um hvernig *ToneLibrary* safnið er sett inn.
